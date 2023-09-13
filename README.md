@@ -1,5 +1,5 @@
 # <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Obi-Wan_Hello-there.gif" width="250px">, I'm João Lucas S. A. Maia
-I'm a...    <img align="right" src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/tyrion_books_quote.gif" width="190px">
+I'm a...    <img align="" width="190px">
  -  <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/rocket-fly.gif" width="30px"> Full-stack Developer
  - Bookworm... <h6 align="right"> because, </h6> 
  - <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/coffee.gif" width="40px"> Coffe lover 
@@ -9,7 +9,7 @@ I'm a...    <img align="right" src="https://github.com/Joaosamaia/Joaosamaia/blo
 
  ## 👾 Tech Stack 💻 
 
- - 🚀 Primary programing language:  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28"/>Python
+ - 🚀 Primary programing language:  <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/icons8-python.gif" alt="python" width="28" height="28"/>Python
  - 🖥️ BackEnd: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/>Java, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>PostgreSQL;
  - 🌐 FrontEnd: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>HTML, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>CSS,
  - 🔧 Tools: <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/>Figma
