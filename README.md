@@ -1,10 +1,10 @@
-# <!-- obi wan gif 30px --> Hello there, I'm João Lucas S. A. M
-I'm a...
- - Full-stack Developer <!-- rocket gif 29px-->
- - Bookworm <!-- books quote gif 29px-->
- - Coffe lover <!-- coffee gif 29px-->
- - Logic enthusiast <!-- chess gif 29px--> 
- - Avid problem solver <!-- key gif 29px-->
+# <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Obi-Wan_Hello-there.gif" width="250px">, I'm João Lucas S. A. Maia
+I'm a...    <img align="right" src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/tyrion_books_quote.gif" width="190px">
+ -  <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/rocket-fly.gif" width="30px"> Full-stack Developer
+ - Bookworm... <h6 align="right"> because, </h6> 
+ - <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/coffee.gif" width="40px"> Coffe lover 
+ - <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/chess-game.gif" width="35px"> Logic enthusiast
+ - <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/problem_key.gif" width="30px"> Avid problem solver
  
 
  ## 👾 Tech Stack 💻 
