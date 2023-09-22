@@ -1,4 +1,4 @@
-# <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Obi-Wan_Hello-there.gif" width="250px">, I'm João Lucas S. A. Maia <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Hello.gif" width="40px">
+# <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Obi-Wan_Hello-there.gif" width="250px"> I'm João Lucas S. A. Maia <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Hello.gif" width="40px">
 I'm a...    
  -  <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/rocket-fly.gif" width="30px"> Full-stack Developer
  - Bookworm... <p align="right"> because,<img align=right src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/tyrion_book_quote.gif" width="300px"> </p>
