@@ -24,5 +24,5 @@ I'm a...
 ## 📁 Github - Stats 📈
 <a href="https://github.com/Joaosamaia">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosamaia&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=23" alt="github stats"/> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=1&layout=compact&langs_count=8" alt="github toplangs"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=1&layout=compact&langs_count=6" alt="github toplangs"/>
 </a>
