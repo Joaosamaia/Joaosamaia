@@ -8,7 +8,7 @@ I'm a...
 
  ## 🧠 Tech Stack 💻 
 
- - 🚀 Primary programing language:  <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/icons8-python.gif" alt="python" width="28" height="28"/> Python !
+ - 🚀 Primary language: <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/icons8-python.gif" alt="python" width="28" height="28"/> Python!
  - 🖥️ BackEnd: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/>Java, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>PostgreSQL;
  - 🌐 FrontEnd: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>HTML, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>CSS;
  - 🔧 Tools: <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/>Figma;
@@ -24,5 +24,5 @@ I'm a...
 ## 📁 Github - Stats 📈
 <a href="https://github.com/Joaosamaia">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosamaia&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&line_height=23" alt="github stats"/> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=1&layout=compact&langs_count=6" alt="github toplangs"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=5&layout=compact&langs_count=6" alt="github toplangs"/>
 </a>
