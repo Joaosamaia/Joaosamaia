@@ -22,5 +22,5 @@ I'm a...
 <a href="mailto:joaosamaia@gmail.com">![Static Badge](https://img.shields.io/badge/joaosamaia%40gmail.com-%23bb001b?style=plastic&logo=gmail&logoColor=white)</a>
 
 ## 📁 Github - Stats 📈
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=5&layout=compact&langs_count=6" alt="github toplangs"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&hide=makefile&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=5&layout=compact&langs_count=6" alt="github toplangs"/>
 </a>
