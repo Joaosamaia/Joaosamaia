@@ -15,12 +15,16 @@ I'm a...
  - 📚 Currently learning: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> C, <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25"/>Firebase, <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25"/> Dart and <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25"/>Flutter;
  - 💡 Aims to learn: <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="25" height="25"/> Azure, <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25" height="25"/>DJango, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> Docker and  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> JavaScript;
 
-## 📡 Contact me <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/handshake.gif" width="55px">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/joao-lucas-santos-aureliano-maia/?locale=en_US"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="29" height="29"/>![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)</a>
+## 📡 Contact me <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/handshake.gif" width="55px">
+ 
+<a href="https://www.linkedin.com/in/joao-lucas-santos-aureliano-maia/?locale=en_US"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="29" height="29"/>![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)</a> 
 <br>
 <a href="mailto:joaosamaia@gmail.com">![Static Badge](https://img.shields.io/badge/joaosamaia%40gmail.com-%23bb001b?style=plastic&logo=gmail&logoColor=white)</a>
 
 ## 📁 Github - Stats 📈
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&hide=makefile&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=5&layout=compact&langs_count=6" alt="github toplangs"/>
 </a>
+
+</div>
