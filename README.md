@@ -6,7 +6,11 @@ I'm a...
  - <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/chess-game.gif" width="35px"> Logic enthusiast
  - <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/problem_key.gif" width="35px"> Avid problem solver
 
+<div align="center">
+
  ## 🧠 Tech Stack 💻 
+
+ </div>
 
  - 🚀 Primary language: <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/icons8-python.gif" alt="python" width="28" height="28"/> Python!
  - 🖥️ BackEnd: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/>Java, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>PostgreSQL;
