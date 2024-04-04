@@ -31,6 +31,8 @@ I'm a...
 
 ## 📁 Github - Stats 📈
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&size_weight=0.5&hide=makefile&count_weight=0.5&locale=en&theme=onedark&hide_langs_below=5&layout=compact&langs_count=6" alt="github toplangs"/>
-</a>
+</a><br>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Joaosamaia/langs)](https://githubtrends.io)
 
 </div>
