@@ -32,7 +32,7 @@ I'm a...
 
 ## 📁 Github - Stats 📈
 
-[![Top Langs](https://github-readme-stats-joaos-projects-5855eaf4.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&hide=makefile,c%2B%2B,jupyter%20notebook,cmake,swift,kotlin,objective-c,shell&size_weight=1&count_weight=0&locale=en&theme=one_dark_pro&hide_langs_below=5&layout=compact&langs_count=6)](https://github.com/Joaosamaia?tab=repositories)
+[![Top Langs](https://github-readme-stats-joaos-projects-5855eaf4.vercel.app/api/top-langs/?username=Joaosamaia&show_icons=true&hide=html,css,makefile,c%2B%2B,jupyter%20notebook,cmake,swift,kotlin,objective-c,shell&size_weight=1&count_weight=0&locale=en&theme=one_dark_pro&hide_langs_below=5&layout=compact&langs_count=6)](https://github.com/Joaosamaia?tab=repositories)
 <img align="top" src="https://github-readme-stats-joaos-projects-5855eaf4.vercel.app/api?username=Joaosamaia&count_private=true&show_icons=true&include_all_commits=true&theme=one_dark_pro&line_height=24" alt="github stats"/>
 
 </div>
