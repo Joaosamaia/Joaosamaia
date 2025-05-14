@@ -1,4 +1,4 @@
-# <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Obi-Wan_Hello-there.gif" height="180px" width="500px"> I'm João Lucas S. A. Maia <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Hello.gif" width="40px">
+# <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Obi-Wan_Hello-there.gif" height="180px" width="460px"> I'm João Lucas S. A. Maia <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/Hello.gif" width="40px">
 
 I'm a...    
  -  <img src="https://github.com/Joaosamaia/Joaosamaia/blob/main/Assets_for_github_readme/rocket-fly.gif" width="35px"> Back-End Developer
